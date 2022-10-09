@@ -1,0 +1,19 @@
+{
+	"identifier": "dev.christiano.sn-green-theme",
+	"name": "Green Dark Theme",
+	"content_type": "SN|Theme",
+	"area": "themes",
+	"description": "Green theme, inspired on Yaru Prussian Green Dark",
+	"version": "v1.2",
+	"url": "https://raw.githubusercontent.com/christiano/sn-green-theme/main/src/main.scss",
+	"download_url": "https://raw.githubusercontent.com/christiano/sn-green-theme/main/src/main.scss",
+	"marketing_url": "https://github.com/christiano/sn-green-theme",
+	"latest_url": "https://raw.githubusercontent.com/christiano/sn-green-theme/main/install.json",
+	"dock_icon": {
+	  "type": "circle",
+	  "background_color": "#307a78",
+	  "foreground_color": "#0081c2",
+	  "border_color": "#00a82e"
+	},
+	"statusBar": "dark-content"
+}
